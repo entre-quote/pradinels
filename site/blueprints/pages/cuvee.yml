@@ -1,0 +1,20 @@
+title: Cuvée
+
+status:
+  draft: Brouillon
+  listed: Publié
+
+fields:
+  publication:
+    label: Date de création
+    type: date
+    default: now
+    display: DD/MM/YYYY
+
+  etiquette:
+    label: Étiquette
+    type: files
+    multipe: false
+  description:
+    label: Présentation
+    type: textarea

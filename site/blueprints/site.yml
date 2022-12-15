@@ -1,0 +1,35 @@
+tabs:
+  pages:
+    sections:
+      pages:
+        headline: Accueil
+        type: pages
+        templates: accueil
+        status: unlisted
+        
+      actualites:
+        label: Actualités
+        type: pages 
+        parent: site.find("actualites")
+        templates: actualite
+        sortBy: publication desc
+        
+      cuvees: 
+        label: Cuvées
+        type: pages 
+        parent: site.find("cuvees")
+        templates: cuvee
+        sortBy: publication desc
+        
+      vignes: 
+        label: Vignes
+        type: pages 
+        parent: site.find("vignes")
+        templates: vigne
+        sortBy: publication desc
+
+  contact:
+    fields:
+      contactfooter:
+        label: Contact du footer
+        type: writer

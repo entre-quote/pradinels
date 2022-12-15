@@ -1,0 +1,17 @@
+title: Vignes
+icon: 🍇
+
+options:
+  duplicate: false
+  changeSlug: false
+  changeStatus: false
+
+sections:
+  drafts:
+    extends: sections/vignes
+    headline: Brouillons
+    status: draft
+  listed:
+    extends: sections/vignes
+    headline: Publiées
+    status: listed

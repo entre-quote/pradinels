@@ -1,0 +1,10 @@
+fields:
+  label: Introduction
+    type: layout
+    layouts:
+      - "1"
+      - "1/2, 1/2"
+    fieldsets:
+      - heading
+      - text
+      - image 

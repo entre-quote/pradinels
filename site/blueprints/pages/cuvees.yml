@@ -1,0 +1,17 @@
+title: Cuvées
+icon: 🍷
+
+options:
+  duplicate: false
+  changeSlug: false
+  changeStatus: false
+
+sections:
+  drafts:
+    extends: sections/cuvees
+    headline: Brouillons
+    status: draft
+  listed:
+    extends: sections/cuvees
+    headline: Publiées
+    status: listed

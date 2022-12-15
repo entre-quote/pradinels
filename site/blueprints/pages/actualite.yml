@@ -1,0 +1,30 @@
+title: Actualité
+icon: 📖
+
+num: date
+
+status:
+  draft:
+    label: Brouillon
+    text: Actualité en brouillon, elle n'est lisible que sur l'administration
+  listed:
+    label: Publiée
+    text: L'actualité est en ligne
+
+fields:
+  publication:
+    label: Date de publication
+    type: date
+    default: now
+    display: DD/MM/YYYY
+    width: 1/3
+  text:
+    label: Contenu
+    type: layout
+    layouts:
+      - "1"
+      - "1/2, 1/2"
+    fieldsets:
+      - text
+      - image
+

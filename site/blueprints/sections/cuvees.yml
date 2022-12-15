@@ -1,0 +1,6 @@
+type: pages
+headline: Cuvées
+info: "{{ page.publication.toDate('d.m.Y') }}"
+template: cuvee
+empty: Pas encore de cuvée
+sortBy: publication desc

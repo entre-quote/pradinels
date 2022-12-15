@@ -1,0 +1,50 @@
+Title: Le 2018,
+
+----
+
+Publication: 2018-12-13
+
+----
+
+Etiquette:
+
+- 123379176_o.jpg
+
+----
+
+Description: baptisé Vinho Verde à cause de sa perlance, est à emporter par carton de six, flaconnage généreux et écolo en bouteilles d’un litre, pour seulement 25 € le carton, on aurait tort de s’en priver !
+
+----
+
+Image: - 123379176_o.jpg
+
+----
+
+Contenu: Baptisé Vinho Verde à cause de sa perlance, est à emporter par carton de six, flaconnage généreux et écolo en bouteilles d’un litre, pour seulement 25 € le carton, on aurait tort de s’en priver !
+
+----
+
+Layout:
+
+- 
+  attrs: [ ]
+  columns:
+    - 
+      blocks:
+        - 
+          content:
+            text: '<p>Baptisé Vinho Verde à cause de sa perlance, est à emporter par carton de six, flaconnage généreux et écolo en bouteilles d’un litre, pour seulement 25 € le carton, on aurait tort de s’en priver&nbsp;!</p>'
+          id: 9d82858a-57d9-4137-b1e8-da434bc9207e
+          isHidden: false
+          type: text
+      id: 798ef25c-d27b-4354-a527-591ce825b428
+      width: 1/1
+  id: 804096aa-e297-45c3-a51a-d7c9d587047f
+- 
+  attrs: [ ]
+  columns:
+    - 
+      blocks: [ ]
+      id: fdf0035b-e55f-48a5-ad28-e5f3f3e56c64
+      width: 1/1
+  id: 99709ec8-2ad7-4f52-b987-0340b78c9684

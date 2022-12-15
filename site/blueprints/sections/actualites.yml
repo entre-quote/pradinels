@@ -1,0 +1,6 @@
+type: pages
+headline: Actualités
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: actualite
+empty: Pas encore d'actualité
+sortBy: date desc

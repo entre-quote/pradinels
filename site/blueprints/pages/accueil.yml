@@ -1,0 +1,22 @@
+title: Accueil
+icon: 🏠
+
+options:
+  changeTitle: false
+  duplicate: false
+  changeSlug: false
+  changeStatus: false
+  delete: false
+  changeTemplate: true
+
+fields:
+  presentation:
+    label: Introduction
+    type: layout
+    layouts:
+      - "1"
+      - "1/2, 1/2"
+    fieldsets:
+      - heading
+      - text
+      - image

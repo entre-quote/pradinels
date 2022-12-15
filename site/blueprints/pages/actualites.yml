@@ -1,0 +1,17 @@
+title: Actualités
+icon: 📚
+
+options:
+  duplicate: false
+  changeSlug: false
+  changeStatus: false
+
+sections:
+  drafts:
+    extends: sections/actualites
+    headline: Brouillons
+    status: draft
+  listed:
+    extends: sections/actualites
+    headline: Publiées
+    status: listed

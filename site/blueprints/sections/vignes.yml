@@ -1,0 +1,6 @@
+type: pages
+headline: Vignes
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: vigne
+empty: Pas encore d'actualité
+sortBy: date desc
