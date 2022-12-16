@@ -8,21 +8,21 @@ tabs:
         status: unlisted
         
       actualites:
-        label: Actualités
+        label: Quoi de nouveau
         type: pages 
         parent: site.find("actualites")
         templates: actualite
         sortBy: publication desc
         
       cuvees: 
-        label: Cuvées
+        label: Ce que l'on boit
         type: pages 
         parent: site.find("cuvees")
         templates: cuvee
         sortBy: publication desc
         
       vignes: 
-        label: Vignes
+        label: À la vigne
         type: pages 
         parent: site.find("vignes")
         templates: vigne
@@ -30,6 +30,9 @@ tabs:
 
   contact:
     fields:
+      contactheader:
+        label: Contact de l'en-tête
+        type: writer
       contactfooter:
-        label: Contact du footer
+        label: Contact du pied de page
         type: writer

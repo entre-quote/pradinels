@@ -2,6 +2,10 @@ Title: Les Pradinels
 
 ----
 
+Contactheader: <p>qsdsqd</p>
+
+----
+
 Contactfooter: <p>445 avenue de Poussan, 34560 Montbazin </p><p>François Bonhomme - <a href="tel:+467788518" title="04 67 78 85 18" rel="noopener noreferrer">04 67 78 85 18</a></p>
 
 ----

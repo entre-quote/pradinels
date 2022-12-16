@@ -1,4 +1,3 @@
-<?php foreach ($cuvees as $cuvee) : ?>
     <article>
         <h3><?= $cuvee->title() ?></h3>
 
@@ -12,4 +11,3 @@
             </div>
         <?php endforeach ?>
     </article>
-<?php endforeach ?>

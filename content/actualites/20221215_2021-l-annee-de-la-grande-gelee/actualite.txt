@@ -2,8 +2,12 @@ Title: 2021, l’année de la grande gélée
 
 ----
 
-Date: 
+Publication: 2021-12-10
 
 ----
 
 Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Non, le changement climatique \u00e7a n\u2019est pas juste un r\u00e9chauffement, \nc\u2019est \u00e9galement un bouleversement des cycles de croissance des plantes \nqui ne les mettent pas \u00e0 l\u2019abri de surprises d\u00e9sagr\u00e9ables comme celle \nqui est intervenue dans les nuits des 7 et 8 avril 2021 : apr\u00e8s un hiver\n tr\u00e8s doux, la vigne en \u00e9tait d\u00e9j\u00e0 au stade 2 \u00e0 4 feuilles quand le \nthermom\u00e8tre est descendu \u00e0 -3\u00b0C deux nuits de suite. Autant dire que \nquasiment tout \u00e0 gel\u00e9 !<\/p><p>C\u2019est entre 40 et 90% de perte pour le \nbassin de Thau, et les Pradinels n\u2019ont pas \u00e9chapp\u00e9 \u00e0 la catastrophe. Une\n des petites vignes \u00e0 totalement gel\u00e9 mais par chance les parcelles \nsitu\u00e9es le plus en hauteur ont permis de sauver environ 30% de la \nr\u00e9colte attendue, et ce sont 12 hectolitres de votre vin de soif \n pr\u00e9f\u00e9r\u00e9 qui ont pu \u00eatre vinifi\u00e9s en blanc et 6 hectos de vin d'une nuit\n rouge cerise. Donc cette ann\u00e9e encore, ce sera une denr\u00e9e rare qu\u2019il \nfaudra s\u2019arracher avant que le stock soit \u00e9puis\u00e9, cette gel\u00e9e, quelle \nd\u00e9gel\u00e9e !<\/p><p>Et s'il y en a que la viticulture int\u00e9resse, la taille \nautomnale a \u00e9t\u00e9 particuli\u00e8rement difficle pour r\u00e9parer les d\u00e9g\u00e2ts, il y \naura des r\u00e9percussions encore en 2022<\/p>"},"id":"f4f7a581-0a0f-4c1b-905c-669102d52f6e","isHidden":false,"type":"text"}],"id":"8b216ff9-3129-4cf3-b1bf-e87cc1d65109","width":"1"}],"id":"306dd3ac-cbfc-4a66-b24e-ade676bf3a0f"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["dscn2537-grande.jpeg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"02970035-608b-491b-a6e3-8d270b829b5c","isHidden":false,"type":"image"}],"id":"ce2cbf57-29f7-4ccd-809e-dff71346e72f","width":"1"}],"id":"8bd17060-0c2a-420f-9acd-a1d9f2d9eb73"}]
+
+----
+
+Uuid: WNTIad2PbO27nGZo

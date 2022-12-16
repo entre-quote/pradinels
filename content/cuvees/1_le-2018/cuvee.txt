@@ -6,9 +6,7 @@ Publication: 2018-12-13
 
 ----
 
-Etiquette:
-
-- 123379176_o.jpg
+Etiquette: - 123379176_o.jpg
 
 ----
 
@@ -48,3 +46,7 @@ Layout:
       id: fdf0035b-e55f-48a5-ad28-e5f3f3e56c64
       width: 1/1
   id: 99709ec8-2ad7-4f52-b987-0340b78c9684
+
+----
+
+Uuid: OHMmRG47O2To61ir

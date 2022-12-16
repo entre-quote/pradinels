@@ -6,10 +6,12 @@ Publication: 2019-12-19
 
 ----
 
-Etiquette:
-
-- 126692373_o.jpg
+Etiquette: - 126692373_o.jpg
 
 ----
 
 Description: pour le coup un vrai Vinho Verde à 12°,est à emporter dans les mêmes conditions que son grand frère de 2018
+
+----
+
+Uuid: ZejUc4zxTVr2T3lQ

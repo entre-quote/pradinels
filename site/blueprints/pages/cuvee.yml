@@ -12,7 +12,7 @@ fields:
     display: DD/MM/YYYY
 
   etiquette:
-    label: Étiquette
+    label: Image de la cuvée
     type: files
     multipe: false
   description:
