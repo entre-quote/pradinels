@@ -1,0 +1,13 @@
+Title: 2022, re-belote pour une re-canicule !
+
+----
+
+Publication: 2022-12-15
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Apr\u00e8s un printemps 2022 mod\u00e9r\u00e9ment arros\u00e9, l'\u00e9t\u00e9 s'est r\u00e9v\u00e9l\u00e9 \u00e0 nouveau tr\u00e8s chaud et tr\u00e8s sec, m\u00eame si le Languedoc n'a pas connu les pics caniculaires atteint en Aquitaine ni subit les spectaculaires incendies de for\u00eats des Landes. Il n'y a pas eu les (autrefois) traditionnels orages du 14 juillet et du 15 ao\u00fbt \u00a0qui permettaient de traverser l'\u00e9t\u00e9 dans de bonnes conditions.<\/p><p>Les vignes ont souffert, les jeunes plantiers tout particuli\u00e8rement parce que leur syst\u00e8me racinaire encore peu profond ne leur a pas permis de faire face au manque d'eau ce qui a \u00e9t\u00e9 le cas pour les c\u00e9pages nouvellement plant\u00e9s (Muscaris, Souvignier gris, Artaban, tous r\u00e9sistants au mildiou et \u00e0 l'o\u00efdium, mais aussi Cinsault et Muscat de Hambourg) .<\/p><p>Les vielles vignes ont beaucoup mieux r\u00e9sist\u00e9, mais elles ont arr\u00eat\u00e9 de travailler et de fournir des sucres et de l'eau aux grappes, ce qui a r\u00e9sult\u00e9 en une maturation incompl\u00e8te et extr\u00eamement variable d'un grain \u00e0 l'autre sur la m\u00eame grappe... les vendanges ont donc \u00e9t\u00e9 complexes et ont produit des r\u00e9sultats surprenants en terme d'ar\u00f4me et de sucre...<\/p>"},"id":"ed7b55e2-e963-4961-90b0-8c5917c9d21e","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"84f49e89-726c-4e9d-b69e-0b09874cdf6f","isHidden":false,"type":"image"}],"id":"2e8911a4-d61e-4a16-b121-6d0bd0860486","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["grappe-mdh.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ce74b0e1-93b9-4d33-8334-f5fea3345ece","isHidden":false,"type":"image"}],"id":"d984e3e7-4816-49e5-902f-c3fafc6c14ae","width":"1\/2"}],"id":"55f202a6-677d-4068-9380-bd0d062a2496"}]
+
+----
+
+Uuid: w5SqmNS4EUQFg6DK

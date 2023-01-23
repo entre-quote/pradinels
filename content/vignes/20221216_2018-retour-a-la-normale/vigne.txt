@@ -1,0 +1,13 @@
+Title: 2018, retour à la normale ?
+
+----
+
+Publication: 2022-12-16
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Cette fois-ci, pas de gel ni de gr\u00eale, 10 cm de neige en f\u00e9vrier (!) et un printemps extr\u00eamement pluvieux, avec toutes les cons\u00e9quences que cela a eu sur les pouss\u00e9es de mildiou et la loi de l\u2019enherbement maximum\u2026 . D\u00e9cid\u00e9ment, les ann\u00e9es se suivent mais ne se ressemblent pas. La vigne r\u00e9siste bien \u00e0 la s\u00e9cheresse estivale gr\u00e2ce aux r\u00e9serves en eau, et la vendange \u00e0 lieu suffisamment t\u00f4t (25 et 28 ao\u00fbt) pour \u00e9viter un taux alcoolique trop \u00e9lev\u00e9.<\/p><p><\/p>"},"id":"dadb20a5-320d-4d78-bf5b-66e737ed2bf0","isHidden":false,"type":"text"}],"id":"51cb9005-ed86-4395-8e55-0936be790011","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["1040815.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"0c6af4a8-159f-4e37-a9c7-60b962236d6f","isHidden":false,"type":"image"}],"id":"fec27811-11a0-4a69-ac52-1bb1b4d78fb9","width":"1\/2"}],"id":"c9f16111-dac7-49ca-9cf3-e9d15ab6a3f3"}]
+
+----
+
+Uuid: NsveWWEJ5CW7KOvd

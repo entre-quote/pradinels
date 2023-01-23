@@ -23,7 +23,7 @@
   <header>
     <h1>
       <a href="<?= $site->url() ?>" class="logo">
-        <img src="<?= $site->url() ?>/assets/pradinels-logo.png" alt="<?= $site->title()->html() ?> - logo">
+        <img src="./assets/pradinels-logo.png" alt="<?= $site->title()->html() ?> - logo">
 
       </a>
     </h1>

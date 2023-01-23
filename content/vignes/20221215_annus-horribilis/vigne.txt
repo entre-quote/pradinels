@@ -1,0 +1,13 @@
+Title: 2017 Annus horribilis !
+
+----
+
+Publication: 2017-10-30
+
+----
+
+Text: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>Et bien c'est rat\u00e9, l'ann\u00e9e 2017 sera celle de la m\u00e8re de toutes les surprises ! La viticulture n\u2019est pas un long fleuve tranquille\u00a0! C\u2019est plut\u00f4t une \u00e9cole d\u2019humilit\u00e9\u2026 Dans les nuits limpides des19 et 20 avril, par un souffle de vent et le thermom\u00e8tre qui descend \u00e0 -3\u00b0C. C\u2019est la gel\u00e9e noire, telle qu\u2019on ne l\u2019avait pas vu depuis 1966 selon les gazettes. 40 communes de l\u2019H\u00e9rault touch\u00e9es, et pour votre serviteur, -60% de perte de r\u00e9colte, et plus encore sur les blancs des Pradinels car ils sont toujours plus pr\u00e9coces et donc plus sensibles.<\/p><p><\/p><p><\/p><p><\/p>"},"id":"5cb6f4ef-9ffb-43ce-8eb9-07519982eb15","isHidden":false,"type":"text"}],"id":"ff6f3268-ae38-4c9a-937f-146a3df83295","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["p1040668.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7c70464e-5ae8-493d-8ff1-d589c941fb74","isHidden":false,"type":"image"}],"id":"737aa0aa-b24c-43b0-9cd9-e3e52ba5848b","width":"1\/2"}],"id":"c8aabd50-05ec-483c-9d88-e2b267c3b07d"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>S\u2019en est suivi la s\u00e9cheresse calamiteuse de l\u2019\u00e9t\u00e9 caniculaire qui a suivi, en fonction de quoi les c\u00e9pages \u00e0 maturit\u00e9 pr\u00e9coce \u00e9taient r\u00e9duits au stade de raisins de Corinthe d\u00e8s le 15 ao\u00fbt\u2026 Vendanges faites le\u00a0 23 de ce mois, pour un maigre r\u00e9sultat de 300 pauvres litres sans parfum qui ne m\u00e9ritent pas la commercialisation....<\/p><p><\/p>"},"id":"146f2776-681d-450d-bb96-ed79bcfcf967","isHidden":false,"type":"text"}],"id":"8af9868a-1ab0-446d-9c34-b98c3af5492b","width":"1\/2"},{"blocks":[],"id":"5e734f90-0781-430c-b9f5-d1f17fdcb2b0","width":"1\/2"}],"id":"3fb98c34-c449-47fe-a17c-db1ee539531d"}]
+
+----
+
+Uuid: aUTitLjsbCgXg9k0
